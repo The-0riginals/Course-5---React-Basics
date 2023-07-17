@@ -5,7 +5,7 @@ function Header() {
 }
 
 function App() {
-  return <Header />;
+  return <Header />;   // call the Header function
 }
 
 export default App;

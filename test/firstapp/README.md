@@ -1,15 +1,4 @@
-# this is first protject run by tutorial in course
-# 1. create components/folder
-# 2. npm init react-app .
-# 3. npm start
-
-# to run this project when download you need:
-1. create node_modules folder by running `npm install react-scripts --save` in terminal
-2. run `npm start` in terminal
-
-those files are automaticly created by react-app
-
-# Creating React Components Demo
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -79,7 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## App Preview
-
-<img src="./public/demo.png">

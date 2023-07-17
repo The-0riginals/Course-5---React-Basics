@@ -4,13 +4,13 @@
 
 - This directory contains all of my assignments from the Coursera Course: [React Basics](https://www.coursera.org/learn/react-basics)
 
-## Table of Content
+# to run this project when download you need:
+1. cd to folder then create 'node_modules' folder by running `npm install react-scripts --save` in terminal
+2. run `npm start` in terminal
 
-- Week 1: [React Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%201%20-%20React%20Components)
-- Week 2: [Data and State](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%202%20-%20Data%20and%20State)
-- Week 3: [Navigation, Updating and Assets in React.js](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%203%20-%20Navigation%2C%20Updating%20and%20Assets%20in%20React.js)
-- Week 4: [Your first React app](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%204%20-%20Your%20first%20React%20app)
 
-## Proof of Completion
+## Fix error:
 
-<img src="./certificate.png" width=800>
+1. ERROR in Plugin "react" was conflicted between "package.json » ./node_modules/react/index.js" and "package.json »... eslint-config-react-app\base.js".
+
+Solution: Open the package.json and type ctrl + s and it disappears.
