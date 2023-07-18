@@ -12,11 +12,15 @@
 
 function Btn() {
     const clickHandler =
-        () => console.log('mouse over')
+        () => {
+        console.log('mouse over');
+        
+    };
     return (
         <button onMouseOver={clickHandler}>
-            Click me
+            Click me and open console to see the result
         </button>
+        // <h1>Mouse over</h1> // This will not work
     );
 }
 
