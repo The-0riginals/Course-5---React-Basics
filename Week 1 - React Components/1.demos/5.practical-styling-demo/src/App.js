@@ -8,7 +8,7 @@ export default function App() {
 		<div className="App">
 			<Header />
 			<div>
-				<Main userName="Mack" num={5} />
+				<Main userName="Klaus" num={1} />
 				<Sidebar />
 			</div>
 		</div>

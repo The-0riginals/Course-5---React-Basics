@@ -1,8 +1,11 @@
 function Header() {
     const headerStyle = {
-        border: "1px solid lightgray",
+        border: "1px solid lightgreen",
         borderRadius: "5px",
-        padding: "20px"
+        padding: "20px",
+        textAlign: "center",
+        backgroundColor: "lightblue",
+        marginbottom: "0px"
     };
     
     return (

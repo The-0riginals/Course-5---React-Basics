@@ -2,7 +2,9 @@ function Main(props) {
     const mainStyle = {
         border: "1px solid lightgray",
         borderRadius: "5px",
-        padding: "20px"
+        padding: "20px",
+        paddingTop: "0px",
+        marginTop: "0px",
     };
     
     return (
