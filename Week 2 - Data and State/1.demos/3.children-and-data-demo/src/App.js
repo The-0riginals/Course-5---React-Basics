@@ -6,6 +6,7 @@ function App() {
 
   return (
     <div>
+      <h1>this is message from Parent</h1>
       <Child message={date.toLocaleTimeString()} />
     </div>
   );

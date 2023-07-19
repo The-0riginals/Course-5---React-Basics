@@ -2,7 +2,7 @@ import { useMealsListContext } from "../providers/MealsProvider";
 
 const Counter = () => {
 
-    const { meals } = useMealsListContext();
+    const { meals } = useMealsListContext();  // take the meals state from the context
 
     return (
         <div>
